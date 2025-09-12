@@ -77,9 +77,9 @@ We welcome all contributions! To ensure a smooth process:
 
 ## 🤝 Community & Support
 
-* **Discussions** – [GitHub Discussions](https://github.com/DMS-Menula/Open-Contributers/discussions)
-* **Issues** – [GitHub Issues](https://github.com/DMS-Menula/Open-Contributers/issues)
-* **Follow Updates** – [Twitter](https://twitter.com/OpenContributers)
+* **Discussions** – [GitHub Discussions](https://github.com/Open-Contributers/Open-Contributers/discussions)
+* **Issues** – [GitHub Issues](https://github.com/Open-Contributers/Open-Contributers/issues)
+* **Follow Me** – [Twitter](https://twitter.com/dmsmenula)     |    [Linkedin](https://www.linkedin.com/in/dmsmenula/)
 
 ---
 
