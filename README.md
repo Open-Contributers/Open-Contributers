@@ -104,5 +104,5 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 > "The journey of a thousand commits begins with a single pull request." – Unknown
 
-````
 
+---
