@@ -7,7 +7,7 @@ A big thank you to everyone who has contributed to **Open-Contributers**! Your e
 ## 🙌 How to Add Yourself
 
 1. Fork this repository.
-2. Edit this `CONTRIBUTORS.md` file.
+2. Edit this `Contributing.md` file.
 3. Add your name, GitHub profile, and role/contribution.
 4. Submit a Pull Request.
 
