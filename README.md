@@ -4,7 +4,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/DMS-Menula/Open-Contributers?color=brightgreen)
 ![GitHub forks](https://img.shields.io/github/forks/DMS-Menula/Open-Contributers?color=blue)
 ![GitHub stars](https://img.shields.io/github/stars/DMS-Menula/Open-Contributers?color=yellow)
-![GitHub issues](https://img.shields.io/github/issues/DMS-Menula/Open-Contributers?color=red)
+![GitHub issues](https://img.shields.io/github/issues/DMS-Menula/Open-Contributers?color=red) 
 ![License](https://img.shields.io/github/license/DMS-Menula/Open-Contributers?color=orange)
 
 
